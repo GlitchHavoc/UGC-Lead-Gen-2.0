@@ -1,0 +1,7 @@
+{
+  "name": "UGC LeadGen",
+  "description": "A high-performance lead discovery and outreach platform for UGC creators. It leverages AI to find brands launching on Product Hunt and crafts personalized pitches.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
